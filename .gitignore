@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Large raw data files
+data/raw/*
+!data/raw/.gitkeep
+
+# Large processed outputs
+*.bam
+*.sam
+*.fastq
+*.fq
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
