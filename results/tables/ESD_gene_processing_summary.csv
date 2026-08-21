@@ -1,0 +1,30 @@
+orf_id,status,gene_name,product,strand,protein_id,uniprot_accession,uniprot_id,protein_length,ta_sites,interpro_records,domain_assignments,domain_summary_rows,error_message
+Rv0018c,uniprot_search_failed,pstP,serine/threonine phosphatase PstP,-,WP_003912367.1,,,,,,,,
+Rv0020c,success,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590,FHAA_MYCTU,527.0,52.0,5.0,30.0,5.0,
+Rv0206c,uniprot_search_failed,mmpL3,trehalose monomycolate RND transporter MmpL3,-,WP_003899855.1,,,,,,,,
+Rv0405,success,,type I polyketide synthase,+,WP_003911169.1,O86335,O86335_MYCTU,1402.0,121.0,21.0,407.0,20.0,
+Rv1111c,uniprot_search_failed,,DUF6542 domain-containing protein,-,WP_003898731.1,,,,,,,,
+Rv1348,uniprot_search_failed,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,,,,,,,,
+Rv1459c,uniprot_search_failed,mptB,polyprenol phosphomannose-dependent alpha 1%2C6 mannosyltransferase MptB,-,WP_003911542.1,,,,,,,,
+Rv1477,uniprot_search_failed,ripA,NlpC/P60 family peptidoglycan endopeptidase RipA,+,WP_003407523.1,,,,,,,,
+Rv1614,uniprot_search_failed,lgt,prolipoprotein diacylglyceryl transferase,+,WP_003408002.1,,,,,,,,
+Rv1629,uniprot_search_failed,polA,DNA polymerase I,+,WP_003408063.1,,,,,,,,
+Rv1702c,python_error,,,,,,,,,,,,"HTTPSConnectionPool(host='rest.uniprot.org', port=443): Max retries exceeded with url: /uniprotkb/search?query=xref%3Arefseq-WP_003898977.1&format=json&size=10 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rest.uniprot.org', port=443) at 0x19021f74050>, 'Connection to rest.uniprot.org timed out. (connect timeout=60)'))"
+Rv2051c,uniprot_search_failed,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,,,,,,,,
+Rv2154c,uniprot_search_failed,ftsW,putative lipid II flippase FtsW,-,WP_003411165.1,,,,,,,,
+Rv2163c,python_error,,,,,,,,,,,,"HTTPSConnectionPool(host='rest.uniprot.org', port=443): Max retries exceeded with url: /uniprotkb/search?query=xref%3Arefseq-WP_003411214.1&format=json&size=10 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rest.uniprot.org', port=443) at 0x19021f742d0>, 'Connection to rest.uniprot.org timed out. (connect timeout=60)'))"
+Rv2362c,uniprot_search_failed,recO,DNA repair protein RecO,-,WP_003412222.1,,,,,,,,
+Rv2444c,uniprot_search_failed,rne,Rne/Rng family ribonuclease,-,WP_003899322.1,,,,,,,,
+Rv2516c,python_error,,,,,,,,,,,,"HTTPSConnectionPool(host='rest.uniprot.org', port=443): Max retries exceeded with url: /uniprotkb/search?query=xref%3Arefseq-WP_003412932.1&format=json&size=10 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rest.uniprot.org', port=443) at 0x19021f747d0>, 'Connection to rest.uniprot.org timed out. (connect timeout=60)'))"
+Rv2581c,uniprot_search_failed,,MBL fold metallo-hydrolase,-,WP_003413366.1,,,,,,,,
+Rv2586c,uniprot_search_failed,secF,protein translocase subunit SecF,-,WP_003899387.1,,,,,,,,
+Rv2609c,uniprot_search_failed,,NUDIX hydrolase,-,WP_003413475.1,,,,,,,,
+Rv3198c,python_error,,,,,,,,,,,,"HTTPSConnectionPool(host='rest.uniprot.org', port=443): Max retries exceeded with url: /uniprotkb/search?query=xref%3Arefseq-WP_003416822.1&format=json&size=10 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rest.uniprot.org', port=443) at 0x19021f74550>, 'Connection to rest.uniprot.org timed out. (connect timeout=60)'))"
+Rv3240c,uniprot_search_failed,secA,preprotein translocase subunit SecA,-,WP_003901576.1,,,,,,,,
+Rv3603c,uniprot_search_failed,,Rossmann-like and DUF2520 domain-containing protein,-,WP_003419533.1,,,,,,,,
+Rv3608c,uniprot_search_failed,folP,dihydropteroate synthase,-,WP_003899596.1,,,,,,,,
+Rv3709c,uniprot_search_failed,ask,aspartate kinase,-,WP_003419828.1,,,,,,,,
+Rv3843c,python_error,,,,,,,,,,,,"HTTPSConnectionPool(host='rest.uniprot.org', port=443): Max retries exceeded with url: /uniprotkb/search?query=xref%3Arefseq-WP_003899726.1&format=json&size=10 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rest.uniprot.org', port=443) at 0x19021f74910>, 'Connection to rest.uniprot.org timed out. (connect timeout=60)'))"
+Rv3863,uniprot_search_failed,,FHA domain-containing protein,+,WP_015288657.1,,,,,,,,
+Rv3910,uniprot_search_failed,murJ,murein biosynthesis integral membrane protein MurJ,+,WP_003902580.1,,,,,,,,
+Rv3921c,python_error,,,,,,,,,,,,"HTTPSConnectionPool(host='rest.uniprot.org', port=443): Max retries exceeded with url: /uniprotkb/search?query=xref%3Arefseq-WP_003899765.1&format=json&size=10 (Caused by ConnectTimeoutError(<HTTPSConnection(host='rest.uniprot.org', port=443) at 0x19021f74f50>, 'Connection to rest.uniprot.org timed out. (connect timeout=60)'))"

@@ -1,0 +1,26 @@
+orf_id,gene_name,product,strand,protein_id,uniprot_accession,domain_accession,domain_name,domain_type,protein_start,protein_end,genomic_start,genomic_end,number_of_ta_sites,es_sites,gd_sites,ne_sites,ga_sites,essential_fraction,es_or_gd_fraction,median_read_count
+Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590,IPR000253,Forkhead-associated (FHA) domain,domain,454,518,23891,24085,2,2,0,0,0,1.0,1.0,0.0
+Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590,IPR008984,SMAD/FHA domain superfamily,homologous_superfamily,398,525,23870,24253,10,10,0,0,0,1.0,1.0,0.0
+Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590,IPR022128,"FhaA, N-terminal domain",domain,9,121,25082,25420,6,0,0,6,0,0.0,0.0,2204.3
+Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590,IPR042287,"FhaA, N-terminal domain superfamily",homologous_superfamily,1,132,25049,25444,8,0,0,8,0,0.0,0.0,1520.4
+Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590,IPR050923,Cellular Process Regulator and RNA Processing Protein,family,434,521,23882,24145,4,4,0,0,0,1.0,1.0,0.0
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR001031,Thioesterase,domain,1178,1392,489265,489909,27,0,10,17,0,0.0,0.37037037037037035,49.4
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR001227,Acyl transferase domain superfamily,homologous_superfamily,632,928,487627,488517,11,0,0,11,0,0.0,0.0,765.9
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR006162,Phosphopantetheine attachment site,ptm,1047,1062,488872,488919,4,0,0,4,0,0.0,0.0,3606.45
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR009081,Phosphopantetheine binding ACP domain,domain,5,83,485746,485982,13,0,0,13,0,0.0,0.0,0.0
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR009081,Phosphopantetheine binding ACP domain,domain,1017,1092,488782,489009,9,0,0,9,0,0.0,0.0,2056.2
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR014030,"Beta-ketoacyl synthase-like, N-terminal domain",domain,107,346,486052,486771,32,6,15,11,0,0.1875,0.65625,14.35
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR014031,"Beta-ketoacyl synthase, C-terminal domain",domain,354,469,486793,487140,10,0,7,3,0,0.0,0.7,42.25
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR014043,Acyl transferase domain,domain,633,942,487630,488559,11,0,0,11,0,0.0,0.0,765.9
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR016035,Acyl transferase/acyl hydrolase/lysophospholipase,homologous_superfamily,631,922,487624,488499,11,0,0,11,0,0.0,0.0,765.9
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR016036,"Malonyl-CoA ACP transacylase, ACP-binding",homologous_superfamily,757,818,488002,488187,1,0,0,1,0,0.0,0.0,765.9
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR016039,Thiolase-like,homologous_superfamily,100,536,486031,487341,47,6,23,18,0,0.1276595744680851,0.6170212765957447,34.6
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR020802,Thioesterase TesA-like,domain,1167,1393,489232,489912,30,0,13,17,0,0.0,0.43333333333333335,46.95
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR020806,"Polyketide synthase-like, phosphopantetheine-binding domain",domain,12,83,485767,485982,12,0,0,12,0,0.0,0.0,38.5
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR020806,"Polyketide synthase-like, phosphopantetheine-binding domain",domain,1020,1092,488791,489009,9,0,0,9,0,0.0,0.0,2056.2
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR020841,"Polyketide synthase, beta-ketoacyl synthase domain",domain,106,525,486049,487308,46,6,23,17,0,0.13043478260869565,0.6304347826086957,33.55
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR029058,Alpha/Beta hydrolase fold,homologous_superfamily,1050,1397,488881,489924,43,0,14,29,0,0.0,0.32558139534883723,106.6
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR032821,"Polyketide synthase, C-terminal extension",domain,474,597,487153,487524,4,0,0,4,0,0.0,0.0,1163.3000000000002
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR036736,ACP-like superfamily,homologous_superfamily,2,121,485737,486096,16,0,0,16,0,0.0,0.0,119.95
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR036736,ACP-like superfamily,homologous_superfamily,999,1103,488728,489042,9,0,0,9,0,0.0,0.0,2056.2
+Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335,IPR050091,Polyketide and Nonribosomal Peptide Biosynthesis Enzymes,family,91,975,486004,488658,62,6,23,33,0,0.0967741935483871,0.46774193548387094,54.7

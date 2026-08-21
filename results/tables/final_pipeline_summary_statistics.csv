@@ -1,0 +1,8 @@
+metric,value
+total_esd_genes,29
+successful_genes,26
+uniprot_failures,2
+interpro_failures,1
+domain_summary_rows,148
+domain_only_rows,64
+genes_with_domain_only_results,22

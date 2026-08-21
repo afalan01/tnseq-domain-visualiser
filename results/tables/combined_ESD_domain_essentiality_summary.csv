@@ -1,0 +1,149 @@
+domain_accession,domain_name,domain_type,protein_start,protein_end,genomic_start,genomic_end,number_of_ta_sites,es_sites,gd_sites,ne_sites,ga_sites,mean_read_count,median_read_count,essential_fraction,es_or_gd_fraction,orf_id,gene_name,product,strand,protein_id,uniprot_accession
+IPR000253,Forkhead-associated (FHA) domain,domain,454,518,23891,24085,2,2,0,0,0,0.0,0.0,1.0,1.0,Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590
+IPR008984,SMAD/FHA domain superfamily,homologous_superfamily,398,525,23870,24253,10,10,0,0,0,0.2,0.0,1.0,1.0,Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590
+IPR022128,"FhaA, N-terminal domain",domain,9,121,25082,25420,6,0,0,6,0,2434.483333333333,2204.3,0.0,0.0,Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590
+IPR042287,"FhaA, N-terminal domain superfamily",homologous_superfamily,1,132,25049,25444,8,0,0,8,0,1896.3374999999999,1520.4,0.0,0.0,Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590
+IPR050923,Cellular Process Regulator and RNA Processing Protein,family,434,521,23882,24145,4,4,0,0,0,0.0,0.0,1.0,1.0,Rv0020c,fhaA,cell division-associated protein FhaA,-,WP_003912368.1,P71590
+IPR001031,Thioesterase,domain,1178,1392,489265,489909,27,0,10,17,0,680.3962962962963,49.4,0.0,0.37037037037037035,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR001227,Acyl transferase domain superfamily,homologous_superfamily,632,928,487627,488517,11,0,0,11,0,829.1727272727272,765.9,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR006162,Phosphopantetheine attachment site,ptm,1047,1062,488872,488919,4,0,0,4,0,4057.1,3606.45,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR009081,Phosphopantetheine binding ACP domain,domain,5,83,485746,485982,13,0,0,13,0,116.96923076923078,0.0,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR009081,Phosphopantetheine binding ACP domain,domain,1017,1092,488782,489009,9,0,0,9,0,3823.2999999999997,2056.2,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR014030,"Beta-ketoacyl synthase-like, N-terminal domain",domain,107,346,486052,486771,32,6,15,11,0,191.728125,14.35,0.1875,0.65625,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR014031,"Beta-ketoacyl synthase, C-terminal domain",domain,354,469,486793,487140,10,0,7,3,0,215.31,42.25,0.0,0.7,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR014043,Acyl transferase domain,domain,633,942,487630,488559,11,0,0,11,0,829.1727272727272,765.9,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR016035,Acyl transferase/acyl hydrolase/lysophospholipase,homologous_superfamily,631,922,487624,488499,11,0,0,11,0,829.1727272727272,765.9,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR016036,"Malonyl-CoA ACP transacylase, ACP-binding",homologous_superfamily,757,818,488002,488187,1,0,0,1,0,765.9,765.9,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR016039,Thiolase-like,homologous_superfamily,100,536,486031,487341,47,6,23,18,0,280.50638297872337,34.6,0.1276595744680851,0.6170212765957447,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR020802,Thioesterase TesA-like,domain,1167,1393,489232,489912,30,0,13,17,0,616.1133333333333,46.95,0.0,0.43333333333333335,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR020806,"Polyketide synthase-like, phosphopantetheine-binding domain",domain,12,83,485767,485982,12,0,0,12,0,126.71666666666668,38.5,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR020806,"Polyketide synthase-like, phosphopantetheine-binding domain",domain,1020,1092,488791,489009,9,0,0,9,0,3823.2999999999997,2056.2,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR020841,"Polyketide synthase, beta-ketoacyl synthase domain",domain,106,525,486049,487308,46,6,23,17,0,245.1130434782609,33.55,0.13043478260869565,0.6304347826086957,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR029058,Alpha/Beta hydrolase fold,homologous_superfamily,1050,1397,488881,489924,43,0,14,29,0,1009.5418604651163,106.6,0.0,0.32558139534883723,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR032821,"Polyketide synthase, C-terminal extension",domain,474,597,487153,487524,4,0,0,4,0,1644.675,1163.3000000000002,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR036736,ACP-like superfamily,homologous_superfamily,2,121,485737,486096,16,0,0,16,0,274.09375,119.95,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR036736,ACP-like superfamily,homologous_superfamily,999,1103,488728,489042,9,0,0,9,0,3823.2999999999997,2056.2,0.0,0.0,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR050091,Polyketide and Nonribosomal Peptide Biosynthesis Enzymes,family,91,975,486004,488658,62,6,23,33,0,578.1564516129032,54.7,0.0967741935483871,0.46774193548387094,Rv0405,,type I polyketide synthase,+,WP_003911169.1,O86335
+IPR000731,Sterol-sensing-like domain,domain,220,335,246314,246661,6,6,0,0,0,0.16666666666666666,0.0,1.0,1.0,Rv0206c,mmpL3,trehalose monomycolate RND transporter MmpL3,-,WP_003899855.1,P9WJV5
+IPR004869,Membrane transport protein MMPL domain,domain,47,340,246299,247180,11,11,0,0,0,0.09090909090909091,0.0,1.0,1.0,Rv0206c,mmpL3,trehalose monomycolate RND transporter MmpL3,-,WP_003899855.1,P9WJV5
+IPR004869,Membrane transport protein MMPL domain,domain,427,735,245114,246040,11,11,0,0,0,0.9636363636363636,0.0,1.0,1.0,Rv0206c,mmpL3,trehalose monomycolate RND transporter MmpL3,-,WP_003899855.1,P9WJV5
+IPR050545,HpnN/MmpL-like transporters,family,2,742,245093,247315,31,31,0,0,0,0.3741935483870968,0.0,1.0,1.0,Rv0206c,mmpL3,trehalose monomycolate RND transporter MmpL3,-,WP_003899855.1,P9WJV5
+IPR064387,Trehalose monomycolate exporter MmpL3,family,1,860,244739,247318,31,31,0,0,0,0.3741935483870968,0.0,1.0,1.0,Rv0206c,mmpL3,trehalose monomycolate RND transporter MmpL3,-,WP_003899855.1,P9WJV5
+IPR046672,Protein of unknown function DUF6542,domain,23,141,1237775,1238131,9,8,0,1,0,174.4,0.0,0.8888888888888888,0.8888888888888888,Rv1111c,,DUF6542 domain-containing protein,-,WP_003898731.1,O86351
+IPR003439,"ABC transporter-like, ATP-binding domain",domain,610,843,1514880,1515581,15,0,8,7,0,118.8,31.0,0.0,0.5333333333333333,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR003593,AAA+ ATPase domain,domain,635,820,1514955,1515512,11,0,7,4,0,83.01818181818182,31.0,0.0,0.6363636363636364,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR007037,"SIP-like, Rossmann fold domain",domain,130,241,1513440,1513775,7,7,0,0,0,1.2,0.0,1.0,1.0,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR011527,"ABC transporter type 1, transmembrane domain",domain,294,575,1513932,1514777,11,0,0,11,0,459.1,169.7,0.0,0.0,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR013113,"Siderophore-interacting, FAD-binding",domain,60,113,1513230,1513391,4,4,0,0,0,0.0,0.0,1.0,1.0,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR017927,"FAD-binding domain, ferredoxin reductase-type",domain,15,122,1513095,1513418,4,4,0,0,0,0.0,0.0,1.0,1.0,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR017938,Riboflavin synthase-like beta-barrel,homologous_superfamily,14,117,1513092,1513403,4,4,0,0,0,0.0,0.0,1.0,1.0,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR027417,P-loop containing nucleoside triphosphate hydrolase,homologous_superfamily,605,853,1514865,1515611,15,0,8,7,0,118.8,31.0,0.0,0.5333333333333333,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR036640,"ABC transporter type 1, transmembrane domain superfamily",homologous_superfamily,280,591,1513890,1514825,12,0,0,12,0,426.425,153.3,0.0,0.0,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR039261,"Ferredoxin-NADP reductase (FNR), nucleotide-binding domain",homologous_superfamily,125,262,1513425,1513838,7,7,0,0,0,1.2,0.0,1.0,1.0,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR039421,Type 1 protein exporter,family,304,840,1513962,1515572,26,0,8,18,0,262.7730769230769,76.1,0.0,0.3076923076923077,Rv1348,irtA,iron ABC transporter ATP-binding protein/permease IrtA,+,WP_003406958.1,P9WQJ9
+IPR049829,Alpha-(1->6)-mannopyranosyltransferase A-like,family,20,550,1644495,1646087,22,18,0,4,0,42.60454545454545,0.0,0.8181818181818182,0.8181818181818182,Rv1459c,mptB,polyprenol phosphomannose-dependent alpha 1%2C6 mannosyltransferase MptB,-,WP_003911542.1,O53150
+IPR000064,"Endopeptidase, NLPC/P60 domain",domain,340,472,1668013,1668411,11,0,0,11,0,587.1454545454545,640.0,0.0,0.0,Rv1477,ripA,NlpC/P60 family peptidoglycan endopeptidase RipA,+,WP_003407523.1,O53168
+IPR038765,Papain-like cysteine peptidase superfamily,homologous_superfamily,341,469,1668016,1668402,10,0,0,10,0,515.79,553.7,0.0,0.0,Rv1477,ripA,NlpC/P60 family peptidoglycan endopeptidase RipA,+,WP_003407523.1,O53168
+IPR049836,Peptidoglycan endopeptidase RipA,family,23,472,1667062,1668411,24,12,0,12,0,270.09166666666664,7.65,0.5,0.5,Rv1477,ripA,NlpC/P60 family peptidoglycan endopeptidase RipA,+,WP_003407523.1,O53168
+IPR051794,Peptidoglycan endopeptidase RipA/RipB-like,family,118,470,1667347,1668405,19,8,0,11,0,272.15263157894736,13.0,0.42105263157894735,0.42105263157894735,Rv1477,ripA,NlpC/P60 family peptidoglycan endopeptidase RipA,+,WP_003407523.1,O53168
+IPR001640,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase Lgt,family,1,279,1813178,1814014,24,22,2,0,0,1.3458333333333332,0.0,0.9166666666666666,1.0,Rv1614,lgt,prolipoprotein diacylglyceryl transferase,+,WP_003408002.1,P9WK93
+IPR001098,"DNA-directed DNA polymerase, family A, palm domain",domain,526,900,1832247,1833371,14,0,13,1,0,84.61428571428571,7.8500000000000005,0.0,0.9285714285714286,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR002298,DNA polymerase A,family,358,902,1831743,1833377,24,0,23,1,0,61.925000000000004,1.0,0.0,0.9583333333333334,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR002421,5'-3' exonuclease,domain,13,275,1830708,1831496,13,13,0,0,0,1.2923076923076924,0.0,1.0,1.0,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR002562,3'-5' exonuclease domain,domain,317,493,1831620,1832150,12,0,8,4,0,56.975,5.2,0.0,0.6666666666666666,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR008918,"Helix-hairpin-helix motif, class 2",conserved_site,187,222,1831230,1831337,5,5,0,0,0,0.0,0.0,1.0,1.0,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR012337,Ribonuclease H-like superfamily,homologous_superfamily,323,493,1831638,1832150,12,0,8,4,0,56.975,5.2,0.0,0.6666666666666666,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR018320,DNA polymerase 1,family,17,902,1830720,1833377,41,13,23,5,0,52.58536585365854,0.0,0.3170731707317073,0.8780487804878049,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR019760,"DNA-directed DNA polymerase, family A, conserved site",conserved_site,729,748,1832856,1832915,3,0,3,0,0,0.0,0.0,0.0,1.0,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR020045,"DNA polymerase I-like, H3TH domain",domain,186,279,1831227,1831508,5,5,0,0,0,0.0,0.0,1.0,1.0,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR020046,"5'-3' exonuclease, alpha-helical arch, N-terminal",domain,16,184,1830717,1831223,8,8,0,0,0,2.1,0.0,1.0,1.0,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR029060,PIN-like domain superfamily,homologous_superfamily,11,184,1830702,1831223,8,8,0,0,0,2.1,0.0,1.0,1.0,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR036279,"5'-3' exonuclease, C-terminal domain superfamily",homologous_superfamily,185,298,1831224,1831565,5,5,0,0,0,0.0,0.0,1.0,1.0,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR036397,Ribonuclease H superfamily,homologous_superfamily,342,516,1831695,1832219,12,0,9,3,0,78.38333333333333,5.2,0.0,0.75,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR043502,DNA/RNA polymerase superfamily,homologous_superfamily,501,901,1832172,1833374,15,0,14,1,0,78.97333333333333,6.9,0.0,0.9333333333333333,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR054690,"DNA polymerase I, 3'-5' exonuclease domain",domain,356,443,1831737,1832000,7,0,6,1,0,31.314285714285717,0.0,0.0,0.8571428571428571,Rv1629,polA,DNA polymerase I,+,WP_003408063.1,P9WNU5
+IPR003615,HNH nuclease,domain,352,407,1927362,1927529,3,0,0,3,0,589.9333333333333,427.5,0.0,0.0,Rv1702c,,HNH endonuclease signature motif containing protein,-,WP_003898977.1,P9WLT3
+IPR003870,Domain of unknown function DUF222,domain,38,361,1927500,1928471,18,0,0,18,0,1483.4222222222222,932.75,0.0,0.0,Rv1702c,,HNH endonuclease signature motif containing protein,-,WP_003898977.1,P9WLT3
+IPR001173,Glycosyltransferase 2-like,domain,614,780,2308424,2308924,10,10,0,0,0,0.0,0.0,1.0,1.0,Rv2051c,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,O53493
+IPR003010,Carbon-nitrogen hydrolase,domain,241,497,2309273,2310043,10,0,0,10,0,2046.23,1717.6,0.0,0.0,Rv2051c,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,O53493
+IPR004563,Apolipoprotein N-acyltransferase,family,20,529,2309177,2310706,18,0,0,18,0,2074.511111111111,1717.6,0.0,0.0,Rv2051c,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,O53493
+IPR029044,Nucleotide-diphospho-sugar transferases,homologous_superfamily,586,855,2308199,2309008,15,15,0,0,0,0.0,0.0,1.0,1.0,Rv2051c,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,O53493
+IPR036526,Carbon-nitrogen hydrolase superfamily,homologous_superfamily,232,509,2309237,2310070,11,0,0,11,0,1860.209090909091,1716.9,0.0,0.0,Rv2051c,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,O53493
+IPR039528,DPM1-like,family,614,839,2308247,2308924,13,13,0,0,0,0.0,0.0,1.0,1.0,Rv2051c,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,O53493
+IPR045378,"Apolipoprotein N-acyltransferase, N-terminal",domain,31,182,2310218,2310673,6,0,0,6,0,1860.3666666666668,1480.35,0.0,0.0,Rv2051c,lnt,apolipoprotein N-acyltransferase,-,WP_003902238.1,O53493
+IPR001182,Probable peptidoglycan glycosyltransferase FtsW/RodA,family,58,416,2413683,2414759,13,13,0,0,0,0.0,0.0,1.0,1.0,Rv2154c,ftsW,putative lipid II flippase FtsW,-,WP_003411165.1,P9WN97
+IPR013437,Probable peptidoglycan glycosyltransferase FtsW,family,59,411,2413698,2414756,13,13,0,0,0,0.0,0.0,1.0,1.0,Rv2154c,ftsW,putative lipid II flippase FtsW,-,WP_003411165.1,P9WN97
+IPR018365,"Cell cycle, FtsW / RodA / SpoVE, conserved site",conserved_site,370,394,2413749,2413823,1,1,0,0,0,0.0,0.0,1.0,1.0,Rv2154c,ftsW,putative lipid II flippase FtsW,-,WP_003411165.1,P9WN97
+IPR001460,"Penicillin-binding protein, transpeptidase",domain,339,654,2425134,2426081,20,20,0,0,0,0.765,0.0,1.0,1.0,Rv2163c,pbpB,D%2CD-transpeptidase PbpB,-,WP_003411214.1,L0T911
+IPR005311,"Penicillin-binding protein, dimerisation domain",domain,131,312,2426160,2426705,6,4,2,0,0,1.2833333333333334,0.0,0.6666666666666666,1.0,Rv2163c,pbpB,D%2CD-transpeptidase PbpB,-,WP_003411214.1,L0T911
+IPR012338,Beta-lactamase/transpeptidase-like,homologous_superfamily,313,666,2425098,2426159,22,22,0,0,0,0.6954545454545454,0.0,1.0,1.0,Rv2163c,pbpB,D%2CD-transpeptidase PbpB,-,WP_003411214.1,L0T911
+IPR036138,"Penicillin-binding protein, dimerisation domain superfamily",homologous_superfamily,130,312,2426160,2426708,6,4,2,0,0,1.2833333333333334,0.0,0.6666666666666666,1.0,Rv2163c,pbpB,D%2CD-transpeptidase PbpB,-,WP_003411214.1,L0T911
+IPR050515,Class D beta-lactamase/transpeptidase,family,82,667,2425095,2426852,29,26,3,0,0,0.7931034482758621,0.0,0.896551724137931,1.0,Rv2163c,pbpB,D%2CD-transpeptidase PbpB,-,WP_003411214.1,L0T911
+IPR003717,"Recombination protein O, RecO",family,1,247,2643528,2644268,9,0,0,9,0,421.65555555555557,445.7,0.0,0.0,Rv2362c,recO,DNA repair protein RecO,-,WP_003412222.1,P9WHI5
+IPR012340,"Nucleic acid-binding, OB-fold",homologous_superfamily,1,82,2644023,2644268,2,0,0,2,0,164.45,164.45,0.0,0.0,Rv2362c,recO,DNA repair protein RecO,-,WP_003412222.1,P9WHI5
+IPR022572,"DNA replication/recombination mediator RecO, N-terminal",domain,1,79,2644032,2644268,2,0,0,2,0,164.45,164.45,0.0,0.0,Rv2362c,recO,DNA repair protein RecO,-,WP_003412222.1,P9WHI5
+IPR037278,"ARFGAP/RecO-like, zinc finger superfamily",homologous_superfamily,82,232,2643573,2644025,6,0,0,6,0,482.5333333333333,549.5,0.0,0.0,Rv2362c,recO,DNA repair protein RecO,-,WP_003412222.1,P9WHI5
+IPR042242,"Recombination protein O, C-terminal",homologous_superfamily,87,252,2643513,2644010,7,0,0,7,0,495.14285714285717,570.8,0.0,0.0,Rv2362c,recO,DNA repair protein RecO,-,WP_003412222.1,P9WHI5
+IPR003029,S1 domain,domain,374,453,2743636,2743875,5,5,0,0,0,1.6800000000000002,0.0,1.0,1.0,Rv2444c,rne,Rne/Rng family ribonuclease,-,WP_003899322.1,P71905
+IPR004659,Ribonuclease E/G,family,349,804,2742583,2743950,17,16,0,1,0,107.28823529411764,0.0,0.9411764705882353,0.9411764705882353,Rv2444c,rne,Rne/Rng family ribonuclease,-,WP_003899322.1,P71905
+IPR012340,"Nucleic acid-binding, OB-fold",homologous_superfamily,368,459,2743618,2743893,5,5,0,0,0,1.6800000000000002,0.0,1.0,1.0,Rv2444c,rne,Rne/Rng family ribonuclease,-,WP_003899322.1,P71905
+IPR019307,RNA-binding protein AU-1/Ribonuclease E/G,domain,455,736,2742787,2743632,9,9,0,0,0,0.9333333333333333,0.0,1.0,1.0,Rv2444c,rne,Rne/Rng family ribonuclease,-,WP_003899322.1,P71905
+IPR064450,"Ribonuclease E, mycobacterium",family,4,950,2742145,2744985,29,17,11,1,0,65.90689655172413,0.0,0.5862068965517241,0.9655172413793104,Rv2444c,rne,Rne/Rng family ribonuclease,-,WP_003899322.1,P71905
+IPR001279,Metallo-beta-lactamase,domain,9,203,2906165,2906749,7,3,4,0,0,51.685714285714276,7.2,0.42857142857142855,1.0,Rv2581c,,MBL fold metallo-hydrolase,-,WP_003413366.1,P9WMW3
+IPR036866,Ribonuclease Z/Hydroxyacylglutathione hydrolase-like,homologous_superfamily,1,221,2906111,2906773,7,3,4,0,0,51.685714285714276,7.2,0.42857142857142855,1.0,Rv2581c,,MBL fold metallo-hydrolase,-,WP_003413366.1,P9WMW3
+IPR051453,Metallo-Beta-Lactamase Glyoxalase II,family,3,220,2906114,2906767,7,3,4,0,0,51.685714285714276,7.2,0.42857142857142855,1.0,Rv2581c,,MBL fold metallo-hydrolase,-,WP_003413366.1,P9WMW3
+IPR005665,"Protein-export membrane protein SecF, bacterial",family,58,356,2912954,2913850,14,12,0,2,0,4.892857142857143,1.85,0.8571428571428571,0.8571428571428571,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR022645,"Protein-export membrane protein SecD/SecF, bacterial",family,85,100,2913722,2913769,1,1,0,0,0,3.3,3.3,1.0,1.0,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR022645,"Protein-export membrane protein SecD/SecF, bacterial",family,205,219,2913365,2913409,5,5,0,0,0,4.0,3.1,1.0,1.0,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR022645,"Protein-export membrane protein SecD/SecF, bacterial",family,253,271,2913209,2913265,1,1,0,0,0,0.0,0.0,1.0,1.0,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR022646,"Protein-export membrane protein SecD/SecF/SecDF, conserved site",conserved_site,81,99,2913725,2913781,1,1,0,0,0,3.3,3.3,1.0,1.0,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR022813,"Protein-export membrane protein SecD/SecF, archaeal and bacterial",family,36,356,2912954,2913916,16,13,0,2,1,230.89375,1.85,0.8125,0.8125,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR048634,"Protein export membrane protein SecD/SecF, C-terminal",domain,168,354,2912960,2913520,9,7,0,2,0,6.944444444444445,3.1,0.7777777777777778,0.7777777777777778,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR055344,"Protein-export membrane protein SecD/SecF, C-terminal, bacterial",domain,172,342,2912996,2913508,8,7,0,1,0,4.425,2.55,0.875,0.875,Rv2586c,secF,protein translocase subunit SecF,-,WP_003899387.1,P9WGN9
+IPR000086,NUDIX hydrolase domain,domain,176,323,2936907,2937350,7,0,0,7,0,1696.0714285714287,1800.2,0.0,0.0,Rv2609c,,NUDIX hydrolase,-,WP_003413475.1,I6YDV4
+IPR015797,NUDIX hydrolase-like domain superfamily,homologous_superfamily,174,310,2936946,2937356,5,0,0,5,0,1886.8400000000001,1800.2,0.0,0.0,Rv2609c,,NUDIX hydrolase,-,WP_003413475.1,I6YDV4
+IPR000212,UvrD-like helicase,family,11,608,3569385,3571178,30,29,0,1,0,67.42999999999999,0.0,0.9666666666666667,0.9666666666666667,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR002121,HRDC domain,domain,626,700,3569109,3569333,4,0,0,4,0,4473.15,4571.35,0.0,0.0,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR010997,HRDC-like superfamily,homologous_superfamily,620,698,3569115,3569351,4,0,0,4,0,4473.15,4571.35,0.0,0.0,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR013986,DExx box DNA helicase domain superfamily,homologous_superfamily,118,204,3570597,3570857,4,4,0,0,0,1.05,1.0,1.0,1.0,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR014016,"UvrD-like helicase, ATP-binding domain",domain,10,301,3570306,3571181,14,14,0,0,0,1.2214285714285715,0.0,1.0,1.0,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR014017,"UvrD-like helicase, C-terminal",domain,292,560,3569529,3570335,15,15,0,0,0,1.5466666666666669,0.0,1.0,1.0,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR027417,P-loop containing nucleoside triphosphate hydrolase,homologous_superfamily,4,588,3569445,3571199,29,29,0,0,0,1.389655172413793,0.0,1.0,1.0,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR044876,HRDC domain superfamily,homologous_superfamily,628,698,3569115,3569327,4,0,0,4,0,4473.15,4571.35,0.0,0.0,Rv3198c,uvrD2,ATP-dependent DNA helicase UvrD2,-,WP_003416822.1,P9WMP9
+IPR000185,Protein translocase subunit SecA,family,1,869,3617922,3620528,43,43,0,0,0,1.0674418604651164,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR001650,"Helicase, C-terminal domain-like",domain,419,620,3618669,3619274,7,7,0,0,0,1.2,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR011115,"SecA DEAD-like, N-terminal",domain,2,383,3619380,3620525,19,19,0,0,0,1.0052631578947369,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR011116,SecA Wing/Scaffold,domain,613,833,3618030,3618692,14,14,0,0,0,1.3142857142857145,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR011130,"SecA, preprotein cross-linking domain",domain,227,339,3619512,3619850,7,7,0,0,0,1.2,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR014001,"Helicase superfamily 1/2, ATP-binding domain",domain,88,246,3619791,3620267,10,10,0,0,0,1.9100000000000001,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR014018,SecA motor DEAD,domain,1,615,3618684,3620528,29,29,0,0,0,0.9482758620689655,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR027417,P-loop containing nucleoside triphosphate hydrolase,homologous_superfamily,4,396,3619341,3620519,20,20,0,0,0,0.9550000000000001,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR027417,P-loop containing nucleoside triphosphate hydrolase,homologous_superfamily,398,615,3618684,3619337,9,9,0,0,0,0.9333333333333333,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR036266,"SecA, Wing/Scaffold superfamily",homologous_superfamily,617,834,3618027,3618680,14,14,0,0,0,1.3142857142857145,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR036670,"SecA, preprotein cross-linking domain superfamily",homologous_superfamily,226,349,3619482,3619853,7,7,0,0,0,1.2,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR044722,"SecA, C-terminal helicase domain",domain,398,611,3618696,3619337,9,9,0,0,0,0.9333333333333333,0.0,1.0,1.0,Rv3240c,secA,preprotein translocase subunit SecA,-,WP_003901576.1,P9WGP5
+IPR008927,"6-phosphogluconate dehydrogenase-like, C-terminal domain superfamily",homologous_superfamily,179,292,4045422,4045763,3,3,0,0,0,0.0,0.0,1.0,1.0,Rv3603c,,Rossmann-like and DUF2520 domain-containing protein,-,WP_003419533.1,O06279
+IPR018931,Domain of unknown function DUF2520,domain,145,286,4045440,4045865,5,3,0,2,0,32.17999999999999,0.0,0.6,0.6,Rv3603c,,Rossmann-like and DUF2520 domain-containing protein,-,WP_003419533.1,O06279
+IPR019665,"Putative oxidoreductase/dehydrogenase, Rossmann-like domain",domain,5,128,4045914,4046285,7,0,0,7,0,125.98571428571428,0.0,0.0,0.0,Rv3603c,,Rossmann-like and DUF2520 domain-containing protein,-,WP_003419533.1,O06279
+IPR036291,NAD(P)-binding domain superfamily,homologous_superfamily,13,177,4045767,4046261,9,0,0,9,0,115.86666666666666,14.7,0.0,0.0,Rv3603c,,Rossmann-like and DUF2520 domain-containing protein,-,WP_003419533.1,O06279
+IPR037108,"TM1727-like, C-terminal domain superfamily",homologous_superfamily,178,290,4045428,4045766,3,3,0,0,0,0.0,0.0,1.0,1.0,Rv3603c,,Rossmann-like and DUF2520 domain-containing protein,-,WP_003419533.1,O06279
+IPR000489,Pterin-binding domain,domain,6,265,4049365,4050144,8,7,1,0,0,0.9875,0.0,0.875,1.0,Rv3608c,folP,dihydropteroate synthase,-,WP_003899596.1,P9WND1
+IPR006390,Dihydropteroate synthase domain,domain,6,269,4049353,4050144,8,7,1,0,0,0.9875,0.0,0.875,1.0,Rv3608c,folP,dihydropteroate synthase,-,WP_003899596.1,P9WND1
+IPR011005,Dihydropteroate synthase-like superfamily,homologous_superfamily,1,280,4049320,4050159,9,7,2,0,0,11.644444444444446,0.0,0.7777777777777778,1.0,Rv3608c,folP,dihydropteroate synthase,-,WP_003899596.1,P9WND1
+IPR045031,Dihydropteroate synthase-like,family,7,270,4049350,4050141,8,7,1,0,0,0.9875,0.0,0.875,1.0,Rv3608c,folP,dihydropteroate synthase,-,WP_003899596.1,P9WND1
+IPR001048,Aspartate/glutamate/uridylate kinase,domain,3,231,4152969,4153655,7,7,0,0,0,1.6428571428571428,0.0,1.0,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR001341,Aspartate kinase,family,1,406,4152444,4153661,13,10,3,0,0,2.0615384615384618,0.0,0.7692307692307693,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR002912,ACT domain,domain,267,352,4152606,4152863,4,1,3,0,0,3.825,3.45,0.25,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR005260,"Aspartate kinase, monofunctional class",family,1,413,4152423,4153661,13,10,3,0,0,2.0615384615384618,0.0,0.7692307692307693,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR018042,"Aspartate kinase, conserved site",conserved_site,5,13,4153623,4153649,1,1,0,0,0,8.4,8.4,1.0,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR036393,Acetylglutamate kinase-like superfamily,homologous_superfamily,1,248,4152918,4153661,9,9,0,0,0,1.2777777777777777,0.0,1.0,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR041740,Aspartokinase catalytic domain,domain,3,242,4152936,4153655,8,8,0,0,0,1.4375,0.0,1.0,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR045865,ACT-like domain,homologous_superfamily,250,330,4152672,4152914,2,1,1,0,0,3.45,3.45,0.5,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR045865,ACT-like domain,homologous_superfamily,332,409,4152435,4152668,2,0,2,0,0,4.2,4.2,0.0,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR054352,"Aspartokinase, ACT domain",domain,347,405,4152447,4152623,1,0,1,0,0,8.4,8.4,0.0,1.0,Rv3709c,ask,aspartate kinase,-,WP_003419828.1,P9WPX3
+IPR025565,Domain of unknown function DUF4328,domain,152,306,4315857,4316321,8,6,0,2,0,456.8,0.0,0.75,0.75,Rv3843c,,DUF4328 domain-containing protein,-,WP_003899726.1,P96235
+IPR004268,Peptidoglycan biosynthesis protein MurJ,family,16,1145,4396820,4400209,52,34,0,0,18,1198.4865384615384,0.0,0.6538461538461539,0.6538461538461539,Rv3910,murJ,murein biosynthesis integral membrane protein MurJ,+,WP_003902580.1,P9WJK3
+IPR011009,Protein kinase-like domain superfamily,homologous_superfamily,723,879,4398941,4399411,5,0,0,0,5,995.78,390.6,0.0,0.0,Rv3910,murJ,murein biosynthesis integral membrane protein MurJ,+,WP_003902580.1,P9WJK3
+IPR001708,Membrane insertase YidC/ALB3/OXA1/COX18,family,38,274,4409425,4410135,17,16,0,1,0,2.3588235294117648,0.0,0.9411764705882353,0.9411764705882353,Rv3921c,yidC,membrane protein insertase YidC,-,WP_003899765.1,P9WIT5
+IPR028055,"Membrane insertase YidC/Oxa/ALB, C-terminal",domain,38,277,4409416,4410135,17,16,0,1,0,2.3588235294117648,0.0,0.9411764705882353,0.9411764705882353,Rv3921c,yidC,membrane protein insertase YidC,-,WP_003899765.1,P9WIT5
+IPR047196,"Membrane insertase YidC/ALB, C-terminal",domain,42,273,4409428,4410123,17,16,0,1,0,2.3588235294117648,0.0,0.9411764705882353,0.9411764705882353,Rv3921c,yidC,membrane protein insertase YidC,-,WP_003899765.1,P9WIT5

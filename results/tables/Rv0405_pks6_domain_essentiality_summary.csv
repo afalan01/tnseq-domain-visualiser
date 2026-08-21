@@ -1,0 +1,12 @@
+domain_accession,domain_name,protein_start,protein_end,genomic_start,genomic_end,number_of_ta_sites,es_sites,gd_sites,ne_sites,ga_sites,mean_read_count,median_read_count,essential_fraction
+IPR001031,Thioesterase,1178,1392,489265,489909,27,0,10,17,0,680.3962962962963,49.4,0.0
+IPR009081,Phosphopantetheine binding ACP domain,5,83,485746,485982,13,0,0,13,0,116.96923076923078,0.0,0.0
+IPR009081,Phosphopantetheine binding ACP domain,1017,1092,488782,489009,9,0,0,9,0,3823.2999999999997,2056.2,0.0
+IPR014030,"Beta-ketoacyl synthase-like, N-terminal domain",107,346,486052,486771,32,6,15,11,0,191.728125,14.35,0.1875
+IPR014031,"Beta-ketoacyl synthase, C-terminal domain",354,469,486793,487140,10,0,7,3,0,215.31,42.25,0.0
+IPR014043,Acyl transferase domain,633,942,487630,488559,11,0,0,11,0,829.1727272727272,765.9,0.0
+IPR020802,Thioesterase TesA-like,1167,1393,489232,489912,30,0,13,17,0,616.1133333333333,46.95,0.0
+IPR020806,"Polyketide synthase-like, phosphopantetheine-binding domain",12,83,485767,485982,12,0,0,12,0,126.71666666666668,38.5,0.0
+IPR020806,"Polyketide synthase-like, phosphopantetheine-binding domain",1020,1092,488791,489009,9,0,0,9,0,3823.2999999999997,2056.2,0.0
+IPR020841,"Polyketide synthase, beta-ketoacyl synthase domain",106,525,486049,487308,46,6,23,17,0,245.1130434782609,33.55,0.13043478260869565
+IPR032821,"Polyketide synthase, C-terminal extension",474,597,487153,487524,4,0,0,4,0,1644.675,1163.3000000000002,0.0
